@@ -5,6 +5,7 @@ root_path = os.getcwd()
 
 C_Repos = os.listdir(root_path)
 C_Repos.pop(C_Repos.index('ZzCommit.py'))
+C_Repos.pop(C_Repos.index('ZzPull.py'))
 
 statuslist = []
 statuslist.append('\n\n' + '-' * 60)
