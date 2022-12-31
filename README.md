@@ -1,6 +1,7 @@
 # FunStuff
-Leisure Time Coding
+Exciting Problems (Simple to Complex)
 
-1. Magic Square
-2. Numbernames
-3. Bookstore - Web Scraping
+- Interesting Problems
+- Conjectures
+	- Twin Prime Conjecture
+	- Collatz Conjecture
