@@ -1,7 +1,7 @@
 # FunStuff
-Exciting Problems (Simple to Complex)
+Exciting Problems
 
-- Interesting Problems
+- Problems
 - Conjectures
 	- Twin Prime Conjecture
 	- Collatz Conjecture
